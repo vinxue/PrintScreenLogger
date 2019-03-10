@@ -1,8 +1,8 @@
-========================By vinxue start===============================
+============By vinxue start==========
 
 The code is from Microsoft MU project.
 
-## How to build (Sample)
+## How to build (Example)
 1. Download UDK2018 code
 2. Copy PrintScreenLogger to ShellPkg/Application/PrintScreenLogger
 3. DSC Nt32Pkg.dsc change  
@@ -18,7 +18,7 @@ The code is from Microsoft MU project.
 2. Run: load PrintScreenLogger.efi
 3. Refer to "PrintScreenLogger operation"
 
-========================By vinxue end===============================
+============By vinxue end==========
 
 # PrintScreenLogger
 
